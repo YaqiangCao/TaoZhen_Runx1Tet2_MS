@@ -1,2 +1,0 @@
-samples	1_SampleInformation	2_TotalReads	3_MappingRatio	4_MappedReads	5_UnqiueReads	6_Redundancy
-EMseq-G34-Leukemia-Rx1Tet2-rep5	EMseq-G34-Leukemia-Rx1Tet2-rep5	1178799951.0	0.9966845366792859	1174891683.0	915872253.0	0.22046239134029177
