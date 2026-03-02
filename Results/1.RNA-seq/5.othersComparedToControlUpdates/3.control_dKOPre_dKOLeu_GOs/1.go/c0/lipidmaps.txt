@@ -1,0 +1,15 @@
+TermID	Term	Enrichment	logP	Genes in Term	Target Genes in Term	Fraction of Targets in Term	Total Target Genes	Total Genes	Entrez Gene IDs	Gene Symbols
+CellCycle	Cell cycle signaling pathway	0.000238761670131458	-8.34004469966627	95	15	0.535714285714286	28	416	22137,12235,56150,12545,18392,12532,23834,17869,104394,30939,18817,12447,13197,27214,12534	Ttk,Bub1,Mad2l1,Cdc7,Orc1,Cdc25c,Cdc6,Myc,E2f4,Pttg1,Plk1,Ccne1,Gadd45a,Dbf4,Cdk1
+PPAR	PPAR (Peroxisome proliferator-activated receptor) signaling pathway	0.603902509215896	-0.504342502658042	45	3	0.107142857142857	28	416	14081,57875,12491	Acsl1,Angptl4,Cd36
+PI3K	PI3K/Akt/mTOR signaling pathway	0.614162474818352	-0.487495768871889	92	6	0.214285714285714	28	416	13685,16004,22340,22339,108067,18709	Eif4ebp1,Igf2r,Vegfb,Vegfa,Eif2b3,Pik3r2
+FAOmega9AndOthersUnsaturated	Omega-9 and other unsaturated fatty acids biosynthesis pathway	0.629042575310881	-0.463556337273681	14	1	0.0357142857142857	28	416	14081	Acsl1
+FAEicosanoidsCYP	Arachidonic acid metabolism via CYP (Cytochromoe P450) pathway	0.654880405887746	-0.423302646448739	15	1	0.0357142857142857	28	416	13850	Ephx2
+FAOmega3And6Unsaturated	Omega-3 and omega-6 unsaturated fatty acids biosynthesis pathway	0.654880405887746	-0.423302646448739	15	1	0.0357142857142857	28	416	14081	Acsl1
+GP	Glycerolipids/Glycerophospholipids metabolism pathway	0.741930493903151	-0.29849971418741	19	1	0.0357142857142857	28	416	68262	Agpat4
+SP	Sphingolipids metabolism pathway	0.821318607215181	-0.196844172684544	24	1	0.0357142857142857	28	416	20698	Sphk1
+Apoptosis	Apoptosis signaling pathway	0.974422452555615	-0.0259103398498435	74	2	0.0714285714285714	28	416	18709,13063	Pik3r2,Cycs
+ST	Sterols biosynthesis pathway	1.00000000000377	3.76853747879135e-12	9	0	0	28	416
+FAEicosanoids	Arachidonic acid metabolism pathway	1.00000000000377	3.76853747879135e-12	9	0	0	28	416
+FAEicosanoidsCOX	Arachidonic acid metabolism via COX (Cyclooxygenase) pathway	1.00000000001219	1.21907729193166e-11	19	0	0	28	416
+FAEicosanoidsLOX	Arachidonic acid metabolism via LOX (Lipooxygenase) pathway	1.00000000001312	1.31218589324433e-11	20	0	0	28	416
+TLR4	TLR4 (Toll-like receptor 4) signaling pathway	1.00000000003596	3.59604687180432e-11	67	0	0	28	416

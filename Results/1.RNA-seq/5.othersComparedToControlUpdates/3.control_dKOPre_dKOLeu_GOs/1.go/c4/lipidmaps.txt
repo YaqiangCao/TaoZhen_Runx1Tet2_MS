@@ -1,0 +1,15 @@
+TermID	Term	Enrichment	logP	Genes in Term	Target Genes in Term	Fraction of Targets in Term	Total Target Genes	Total Genes	Entrez Gene IDs	Gene Symbols
+Apoptosis	Apoptosis signaling pathway	0.000403485217238999	-7.81537070725997	74	16	0.4	40	416	19698,74769,12633,12048,14102,12368,18037,18035,30955,22035,12983,18034,17874,18707,11796,266632	Relb,Pik3cb,Cflar,Bcl2l1,Fas,Casp6,Nfkbie,Nfkbia,Pik3cg,Tnfsf10,Csf2rb,Nfkb2,Myd88,Pik3cd,Birc3,Irak4
+TLR4	TLR4 (Toll-like receptor 4) signaling pathway	0.00529550575416169	-5.24089678906766	67	13	0.325	40	416	18037,54123,16159,19094,19698,15894,21929,266632,29857,18035,17874,16193,18034	Nfkbie,Irf7,Il12a,Mapk11,Relb,Icam1,Tnfaip3,Irak4,Mapk12,Nfkbia,Myd88,Il6,Nfkb2
+PI3K	PI3K/Akt/mTOR signaling pathway	0.144231262041206	-1.93633728122597	92	12	0.3	40	416	18037,54446,22241,18019,19698,18035,13682,30955,74769,18707,18034,16193	Nfkbie,Nfat5,Ulk1,Nfatc2,Relb,Nfkbia,Eif4a2,Pik3cg,Pik3cb,Pik3cd,Nfkb2,Il6
+FAEicosanoidsCOX	Arachidonic acid metabolism via COX (Cyclooxygenase) pathway	0.272106358485077	-1.30156226527384	19	3	0.075	40	416	21391,19224,11430	Tbxas1,Ptgs1,Acox1
+SP	Sphingolipids metabolism pathway	0.411748160979808	-0.88734337628577	24	3	0.075	40	416	268656,208449,20773	Sptlc1,Sgms1,Sptlc2
+GP	Glycerolipids/Glycerophospholipids metabolism pathway	0.562731285994694	-0.5749530543112	19	2	0.05	40	416	75320,104418	Etnk1,Dgkz
+FAEicosanoids	Arachidonic acid metabolism pathway	0.601164213767779	-0.508887147546008	9	1	0.025	40	416	19224	Ptgs1
+FAOmega3And6Unsaturated	Omega-3 and omega-6 unsaturated fatty acids biosynthesis pathway	0.786468091274636	-0.240203127841285	15	1	0.025	40	416	11430	Acox1
+FAEicosanoidsLOX	Arachidonic acid metabolism via LOX (Lipooxygenase) pathway	0.874087937581835	-0.134574293305769	20	1	0.025	40	416	11430	Acox1
+PPAR	PPAR (Peroxisome proliferator-activated receptor) signaling pathway	0.948367223732527	-0.0530134849278041	45	2	0.05	40	416	11430,20181	Acox1,Rxra
+CellCycle	Cell cycle signaling pathway	0.992007290812803	-0.00802482211459187	95	4	0.1	40	416	12577,17127,12581,55948	Cdkn1c,Smad3,Cdkn2d,Sfn
+ST	Sterols biosynthesis pathway	1.00000000000525	5.24902473513083e-12	9	0	0	40	416
+FAOmega9AndOthersUnsaturated	Omega-9 and other unsaturated fatty acids biosynthesis pathway	1.00000000001104	1.10443798166296e-11	14	0	0	40	416
+FAEicosanoidsCYP	Arachidonic acid metabolism via CYP (Cytochromoe P450) pathway	1.00000000001255	1.25475166767185e-11	15	0	0	40	416

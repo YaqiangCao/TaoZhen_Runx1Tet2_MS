@@ -1,0 +1,15 @@
+TermID	Term	Enrichment	logP	Genes in Term	Target Genes in Term	Fraction of Targets in Term	Total Target Genes	Total Genes	Entrez Gene IDs	Gene Symbols
+FAOmega9AndOthersUnsaturated	Omega-9 and other unsaturated fatty acids biosynthesis pathway	0.0214130880333748	-3.84375295355487	14	3	0.157894736842105	19	416	20250,26897,68801	Scd2,Acot1,Elovl5
+FAOmega3And6Unsaturated	Omega-3 and omega-6 unsaturated fatty acids biosynthesis pathway	0.145600690454947	-1.92688740109517	15	2	0.105263157894737	19	416	26897,68801	Acot1,Elovl5
+GP	Glycerolipids/Glycerophospholipids metabolism pathway	0.212906141997	-1.54690385828793	19	2	0.105263157894737	19	416	212862,74596	Chpt1,Cds1
+FAEicosanoidsLOX	Arachidonic acid metabolism via LOX (Lipooxygenase) pathway	0.230315550021726	-1.46830495371531	20	2	0.105263157894737	19	416	16993,67103	Lta4h,Ptgr1
+SP	Sphingolipids metabolism pathway	0.300813863921868	-1.20126359780279	24	2	0.105263157894737	19	416	74442,20397	Sgms2,Sgpl1
+PPAR	PPAR (Peroxisome proliferator-activated receptor) signaling pathway	0.33848048830161	-1.08328882994075	45	3	0.157894736842105	19	416	108078,104086,13167	Olr1,Cyp27a1,Dbi
+TLR4	TLR4 (Toll-like receptor 4) signaling pathway	0.366287419106497	-1.00433695566081	67	4	0.210526315789474	19	416	21898,22329,56489,26415	Tlr4,Vcam1,Ikbke,Mapk13
+FAEicosanoidsCOX	Arachidonic acid metabolism via COX (Cyclooxygenase) pathway	0.59688030786494	-0.516038675028668	19	1	0.0526315789473684	19	416	67103	Ptgr1
+Apoptosis	Apoptosis signaling pathway	0.688566288589044	-0.373143685725373	74	3	0.157894736842105	19	416	12364,19087,12122	Casp12,Prkar2a,Bid
+ST	Sterols biosynthesis pathway	1.00000000000181	1.81146760492739e-12	9	0	0	19	416
+FAEicosanoids	Arachidonic acid metabolism pathway	1.00000000000181	1.81146760492739e-12	9	0	0	19	416
+FAEicosanoidsCYP	Arachidonic acid metabolism via CYP (Cytochromoe P450) pathway	1.00000000000517	5.1735260189602e-12	15	0	0	19	416
+PI3K	PI3K/Akt/mTOR signaling pathway	1.0000000000313	3.12996405590649e-11	92	0	0	19	416
+CellCycle	Cell cycle signaling pathway	1.00000000003138	3.13761388881787e-11	95	0	0	19	416
