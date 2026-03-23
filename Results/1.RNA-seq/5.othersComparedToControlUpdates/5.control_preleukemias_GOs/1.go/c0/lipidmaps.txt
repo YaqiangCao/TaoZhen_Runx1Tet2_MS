@@ -1,0 +1,15 @@
+TermID	Term	Enrichment	logP	Genes in Term	Target Genes in Term	Fraction of Targets in Term	Total Target Genes	Total Genes	Entrez Gene IDs	Gene Symbols
+CellCycle	Cell cycle signaling pathway	0.0890656163968716	-2.41838191800857	95	9	0.36	25	416	12575,104394,13197,12545,12447,18817,17869,18392,23834	Cdkn1a,E2f4,Gadd45a,Cdc7,Ccne1,Plk1,Myc,Orc1,Cdc6
+PPAR	PPAR (Peroxisome proliferator-activated receptor) signaling pathway	0.279748421517447	-1.27386457428163	45	4	0.16	25	416	57875,20249,56473,12491	Angptl4,Scd1,Fads2,Cd36
+ST	Sterols biosynthesis pathway	0.430736284515837	-0.842259245019308	9	1	0.04	25	416	223920	Soat2
+PI3K	PI3K/Akt/mTOR signaling pathway	0.489044698107283	-0.715301386512289	92	6	0.24	25	416	22340,12575,16193,18019,16004,18709	Vegfb,Cdkn1a,Il6,Nfatc2,Igf2r,Pik3r2
+FAOmega9AndOthersUnsaturated	Omega-9 and other unsaturated fatty acids biosynthesis pathway	0.586043629214502	-0.534361039592107	14	1	0.04	25	416	56473	Fads2
+FAEicosanoidsCYP	Arachidonic acid metabolism via CYP (Cytochromoe P450) pathway	0.611787184612989	-0.491370794505011	15	1	0.04	25	416	13850	Ephx2
+FAOmega3And6Unsaturated	Omega-3 and omega-6 unsaturated fatty acids biosynthesis pathway	0.611787184612989	-0.491370794505011	15	1	0.04	25	416	56473	Fads2
+GP	Glycerolipids/Glycerophospholipids metabolism pathway	0.700215563213183	-0.356367043897412	19	1	0.04	25	416	68262	Agpat4
+SP	Sphingolipids metabolism pathway	0.783812648666471	-0.243585255726924	24	1	0.04	25	416	20698	Sphk1
+TLR4	TLR4 (Toll-like receptor 4) signaling pathway	0.799684834919745	-0.223537585285718	67	3	0.12	25	416	16476,16193,20750	Jun,Il6,Spp1
+Apoptosis	Apoptosis signaling pathway	0.956740324338433	-0.044223267778486	74	2	0.08	25	416	16177,18709	Il1r1,Pik3r2
+FAEicosanoids	Arachidonic acid metabolism pathway	1.00000000000306	3.06016414176954e-12	9	0	0	25	416
+FAEicosanoidsCOX	Arachidonic acid metabolism via COX (Cyclooxygenase) pathway	1.00000000001059	1.05909349921233e-11	19	0	0	25	416
+FAEicosanoidsLOX	Arachidonic acid metabolism via LOX (Lipooxygenase) pathway	1.00000000001154	1.15377091176677e-11	20	0	0	25	416
