@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff --no-js-tests -p 50 -o preVsleukemiaControlVsRx1Tet2Leukemia --compatible-hits-norm -L control,Rx1Tet2Leukemia /home/caoy7/caoy7/Projects/0.Reference/2.mm10/2.annotations/gencode.vM21.basic.annotation.gtf ../2.mapping/RNA-seq_Preleukemia_Control_rep1/RNA-seq_Preleukemia_Control_rep1_Aligned.out.bam,../2.mapping/RNA-seq_Preleukemia_Control_rep2/RNA-seq_Preleukemia_Control_rep2_Aligned.out.bam,../2.mapping/RNA-seq_Preleukemia_Control_rep3/RNA-seq_Preleukemia_Control_rep3_Aligned.out.bam ../2.mapping/RNA-seq_Leukemia_Rx1Tet2_rep1/RNA-seq_Leukemia_Rx1Tet2_rep1_Aligned.out.bam,../2.mapping/RNA-seq_Leukemia_Rx1Tet2_rep2/RNA-seq_Leukemia_Rx1Tet2_rep2_Aligned.out.bam,../2.mapping/RNA-seq_Leukemia_Rx1Tet2_rep3/RNA-seq_Leukemia_Rx1Tet2_rep3_Aligned.out.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700
