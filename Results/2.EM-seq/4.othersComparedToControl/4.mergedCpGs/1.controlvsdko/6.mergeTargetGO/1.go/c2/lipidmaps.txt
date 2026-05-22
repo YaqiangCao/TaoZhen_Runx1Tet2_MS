@@ -1,0 +1,15 @@
+TermID	Term	Enrichment	logP	Genes in Term	Target Genes in Term	Fraction of Targets in Term	Total Target Genes	Total Genes	Entrez Gene IDs	Gene Symbols
+GP	Glycerolipids/Glycerophospholipids metabolism pathway	0.0552855708394428	-2.89524332964644	19	6	0.09375	64	416	18618,19012,27388,104418,13026,102247	Pemt,Plpp1,Ptdss2,Dgkz,Pcyt1a,Gpat4
+PPAR	PPAR (Peroxisome proliferator-activated receptor) signaling pathway	0.131190913665109	-2.03110166047173	45	10	0.15625	64	416	20411,19016,12896,26457,104086,14077,11806,12491,20181,14081	Sorbs1,Pparg,Cpt2,Slc27a1,Cyp27a1,Fabp3,Apoa1,Cd36,Rxra,Acsl1
+SP	Sphingolipids metabolism pathway	0.146086672808594	-1.92355518403995	24	6	0.09375	64	416	19012,208449,20698,223753,241447,22234	Plpp1,Sgms1,Sphk1,Cerk,Cers6,Ugcg
+Apoptosis	Apoptosis signaling pathway	0.222684794267243	-1.5019979860475	74	14	0.21875	64	416	18049,18707,18708,12043,19085,21933,13063,12368,73914,19698,12675,18749,16177,19084	Ngf,Pik3cd,Pik3r1,Bcl2,Prkar1b,Tnfrsf10b,Cycs,Casp6,Irak3,Relb,Chuk,Prkacb,Il1r1,Prkar1a
+PI3K	PI3K/Akt/mTOR signaling pathway	0.446630170427995	-0.806024386040597	92	15	0.234375	64	416	56637,18708,18707,18019,13685,18569,217715,12675,73699,19698,64930,22084,16337,22339,13682	Gsk3b,Pik3r1,Pik3cd,Nfatc2,Eif4ebp1,Pdcd4,Eif2b2,Chuk,Ppp2r1b,Relb,Tsc1,Tsc2,Insr,Vegfa,Eif4a2
+FAOmega3And6Unsaturated	Omega-3 and omega-6 unsaturated fatty acids biosynthesis pathway	0.701016375099104	-0.355224032592555	15	2	0.03125	64	416	53357,14081	Pla2g6,Acsl1
+FAEicosanoids	Arachidonic acid metabolism pathway	0.781169717722517	-0.24696284452701	9	1	0.015625	64	416	53357	Pla2g6
+CellCycle	Cell cycle signaling pathway	0.843589823588562	-0.170088893526898	95	12	0.1875	64	416	17869,56637,12572,23834,12237,12571,20842,12579,19645,13557,55948,12578	Myc,Gsk3b,Cdk7,Cdc6,Bub3,Cdk6,Stag1,Cdkn2b,Rb1,E2f3,Sfn,Cdkn2a
+TLR4	TLR4 (Toll-like receptor 4) signaling pathway	0.851183460716522	-0.161127591132732	67	8	0.125	64	416	19698,68652,18126,26398,12675,73914,56480,14281	Relb,Tab2,Nos2,Map2k4,Chuk,Irak3,Tbk1,Fos
+FAOmega9AndOthersUnsaturated	Omega-9 and other unsaturated fatty acids biosynthesis pathway	0.907402606167127	-0.0971690396304042	14	1	0.015625	64	416	14081	Acsl1
+FAEicosanoidsCOX	Arachidonic acid metabolism via COX (Cyclooxygenase) pathway	0.961275169013732	-0.0394945748756987	19	1	0.015625	64	416	67103	Ptgr1
+FAEicosanoidsLOX	Arachidonic acid metabolism via LOX (Lipooxygenase) pathway	0.96751796293132	-0.0330212879132711	20	1	0.015625	64	416	67103	Ptgr1
+ST	Sterols biosynthesis pathway	1.00000000000913	9.13090815519085e-12	9	0	0	64	416
+FAEicosanoidsCYP	Arachidonic acid metabolism via CYP (Cytochromoe P450) pathway	1.00000000001937	1.93684718200416e-11	15	0	0	64	416

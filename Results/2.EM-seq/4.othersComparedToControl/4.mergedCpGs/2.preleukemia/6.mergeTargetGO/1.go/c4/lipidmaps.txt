@@ -1,0 +1,15 @@
+TermID	Term	Enrichment	logP	Genes in Term	Target Genes in Term	Fraction of Targets in Term	Total Target Genes	Total Genes	Entrez Gene IDs	Gene Symbols
+SP	Sphingolipids metabolism pathway	0.139299700296898	-1.9711275496926	24	3	0.130434782608696	23	416	22234,241447,208449	Ugcg,Cers6,Sgms1
+FAOmega3And6Unsaturated	Omega-3 and omega-6 unsaturated fatty acids biosynthesis pathway	0.198294816687637	-1.61800038253912	15	2	0.0869565217391304	23	416	14081,53357	Acsl1,Pla2g6
+FAEicosanoidsCOX	Arachidonic acid metabolism via COX (Cyclooxygenase) pathway	0.283143829715852	-1.26180027823366	19	2	0.0869565217391304	23	416	21391,67103	Tbxas1,Ptgr1
+Apoptosis	Apoptosis signaling pathway	0.389653310150324	-0.94249788353983	74	5	0.217391304347826	23	416	18033,22035,12043,12368,19084	Nfkb1,Tnfsf10,Bcl2,Casp6,Prkar1a
+ST	Sterols biosynthesis pathway	0.403703689671037	-0.907074111529048	9	1	0.0434782608695652	23	416	16987	Lss
+FAEicosanoids	Arachidonic acid metabolism pathway	0.403703689671037	-0.907074111529048	9	1	0.0434782608695652	23	416	53357	Pla2g6
+FAOmega9AndOthersUnsaturated	Omega-9 and other unsaturated fatty acids biosynthesis pathway	0.554854304296232	-0.589049714480304	14	1	0.0434782608695652	23	416	14081	Acsl1
+CellCycle	Cell cycle signaling pathway	0.635447765081935	-0.453425386723844	95	5	0.217391304347826	23	416	12545,12578,23834,19645,12572	Cdc7,Cdkn2a,Cdc6,Rb1,Cdk7
+GP	Glycerolipids/Glycerophospholipids metabolism pathway	0.668939576537099	-0.402061542010502	19	1	0.0434782608695652	23	416	18618	Pemt
+FAEicosanoidsLOX	Arachidonic acid metabolism via LOX (Lipooxygenase) pathway	0.688119399560109	-0.373792910233884	20	1	0.0434782608695652	23	416	67103	Ptgr1
+PI3K	PI3K/Akt/mTOR signaling pathway	0.789400902289397	-0.23648097274746	92	4	0.173913043478261	23	416	18019,22084,18033,13682	Nfatc2,Tsc2,Nfkb1,Eif4a2
+TLR4	TLR4 (Toll-like receptor 4) signaling pathway	0.910902901525578	-0.0933189718971355	67	2	0.0869565217391304	23	416	26398,18033	Map2k4,Nfkb1
+PPAR	PPAR (Peroxisome proliferator-activated receptor) signaling pathway	0.933451860650328	-0.0688658859960275	45	1	0.0434782608695652	23	416	14081	Acsl1
+FAEicosanoidsCYP	Arachidonic acid metabolism via CYP (Cytochromoe P450) pathway	1.00000000000674	6.7398528056475e-12	15	0	0	23	416
