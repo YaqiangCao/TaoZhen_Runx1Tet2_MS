@@ -1,98 +1,70 @@
 Term	logP
-translation	59.6290642485443
-ribosome biogenesis	48.2137238055476
-mitochondrial translation	45.1013031223174
-rRNA processing	36.0424459533958
-oxidative phosphorylation	32.765108802593
-aerobic respiration	28.8076866596868
-cellular respiration	24.6880666131566
-mitochondrion organization	23.9986216299741
-generation of precursor metabolites and energy	22.6967295420015
-mitochondrial ATP synthesis coupled electron transport	22.2834650160271
-ATP synthesis coupled electron transport	21.9246992548574
-respiratory electron transport chain	20.2436881045993
-energy derivation by oxidation of organic compounds	20.1097280082304
-ribosomal large subunit biogenesis	20.0510440149064
-protein maturation	19.9463682155836
-chromosome organization	19.3945045698052
-protein-RNA complex assembly	19.2092118201595
-electron transport chain	19.1056952725407
-aerobic electron transport chain	19.0537442407946
-protein-RNA complex organization	18.3378828533969
-cytoplasmic translation	17.7513644704663
-mitochondrial respiratory chain complex assembly	17.6211470677578
-chromosome segregation	16.6813820812257
-RNA splicing	16.3538135087889
-non-membrane-bounded organelle assembly	16.1088329006889
-mitotic cell cycle process	15.9158697703192
-ribose phosphate metabolic process	15.7744910290769
-nucleoside triphosphate metabolic process	14.2424694550267
-mRNA processing	14.1655879027921
-establishment of protein localization to organelle	14.0216753334218
-purine nucleotide metabolic process	13.7741004485184
-purine-containing compound metabolic process	13.7259177542992
-ribosomal small subunit biogenesis	13.4232564617776
-nucleoside triphosphate biosynthetic process	13.4232564617776
-purine ribonucleotide metabolic process	13.2766051267457
-nuclear chromosome segregation	12.8809222223721
-mRNA splicing, via spliceosome	12.7708392418777
-RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	12.7708392418777
-RNA splicing, via transesterification reactions	12.7708392418777
-ribonucleotide metabolic process	12.4193519077947
-positive regulation of cell cycle phase transition	12.0957405226291
-purine nucleoside triphosphate metabolic process	11.9434809978711
-mitochondrial transport	11.610285126747
-purine ribonucleotide biosynthetic process	11.5487160832753
-protein folding	11.4269206141888
-positive regulation of cell cycle	11.1535229612243
-nucleotide biosynthetic process	11.1363246448715
-nucleoside phosphate biosynthetic process	10.9892929994633
-positive regulation of mitotic cell cycle	10.9604330985424
-mitotic nuclear division	10.9176653985066
-purine ribonucleoside triphosphate metabolic process	10.8999955547929
-ribonucleotide biosynthetic process	10.7316490118995
-RNA localization	10.6107038757571
-ribonucleoside triphosphate metabolic process	10.5125333947631
-protein-DNA complex assembly	10.4322275542355
-ribose phosphate biosynthetic process	10.2992909784114
-organelle fission	10.2969566917131
-regulation of mitochondrion organization	10.2887411329555
-nuclear division	10.0815065813609
-purine nucleotide biosynthetic process	10.0406275161347
-protein targeting	9.7782257181079
-purine-containing compound biosynthetic process	9.69243996898297
-positive regulation of cell cycle process	9.39906513441643
-regulation of chromosome organization	9.38066454545991
-ATP metabolic process	9.21828119948982
-regulation of RNA splicing	9.09078463879745
-nucleobase-containing compound catabolic process	8.83113145911275
-cellular response to radiation	8.63759839740798
-DNA replication	8.38958267556263
-organic cyclic compound catabolic process	8.25918597816896
-regulation of cell cycle phase transition	8.0825458765211
-regulation of mitotic cell cycle phase transition	8.03401725407623
-regulation of T cell activation	7.81589197208584
-establishment of organelle localization	7.64428064106652
-positive regulation of establishment of protein localization	7.54671764015367
-apoptotic signaling pathway	7.46198256699309
-organophosphate biosynthetic process	7.06943795896911
-immune response-regulating signaling pathway	6.77262298524953
-positive regulation of proteolysis	6.64959595076115
-cellular response to environmental stimulus	6.56888106747681
-cellular response to abiotic stimulus	6.56888106747681
-nucleocytoplasmic transport	6.36331493872469
-nuclear transport	6.33153209486601
-immune response-regulating cell surface receptor signaling pathway	6.23793482485041
-activation of immune response	6.15226290675557
-chemotaxis	5.99619954926763
-taxis	5.94449274385054
-regulation of mRNA metabolic process	5.90021115245066
-positive regulation of cell activation	5.64719873588208
-regulation of protein stability	5.6343106152367
-negative regulation of cell cycle process	5.56422361868876
-DNA repair	5.55068891346937
-regulation of protein modification by small protein conjugation or removal	5.54159561365566
-regulation of translation	5.40547033029614
-regulation of post-translational protein modification	5.3958554485362
-locomotion	5.22218390911481
-regulation of leukocyte cell-cell adhesion	5.04521455797582
+regulation of interleukin-6 production	30.943968726719
+phagocytosis	24.8012084921946
+activation of immune response	24.5784355437756
+adaptive immune response	23.920063808935
+positive regulation of interleukin-6 production	23.1892076528022
+regulation of innate immune response	22.9500060397779
+positive regulation of defense response	21.7856048158366
+regulation of tumor necrosis factor production	21.6913210194135
+regulation of tumor necrosis factor superfamily cytokine production	21.4881948275804
+regulation of immune effector process	20.584357424184
+chemotaxis	19.932442769245
+taxis	19.8463139133151
+immune response-regulating signaling pathway	19.1605161142701
+regulation of pattern recognition receptor signaling pathway	18.7352246308754
+immune response-activating signaling pathway	18.6323043908274
+locomotion	18.6206292141507
+defense response to bacterium	18.5817841723307
+regulation of inflammatory response	18.5430614148881
+regulation of production of molecular mediator of immune response	18.2568143012175
+cytokine production	17.9773673853616
+negative regulation of immune effector process	17.9268305328255
+cell activation involved in immune response	17.080443175746
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	16.7416739355143
+positive regulation of innate immune response	15.9056507653869
+regulation of angiogenesis	15.7062255966294
+activation of innate immune response	15.6189023604984
+negative regulation of cytokine production	15.5494463293892
+regulation of vasculature development	15.4334304603428
+lymphocyte mediated immunity	15.4334304603428
+immunoglobulin mediated immune response	14.9551728228316
+leukocyte differentiation	14.935952967356
+leukocyte mediated immunity	14.9285349832406
+positive regulation of response to biotic stimulus	14.8362990940011
+B cell mediated immunity	14.7291855545797
+positive regulation of cellular catabolic process	14.6403449102474
+regulation of leukocyte proliferation	14.6323392000848
+leukocyte migration	14.3789585580653
+response to molecule of bacterial origin	14.0052828054218
+cell-cell adhesion	13.8239935680902
+gliogenesis	13.7687992088145
+leukocyte activation involved in immune response	13.1767648727393
+immune response-regulating cell surface receptor signaling pathway	13.0924409279658
+regulation of canonical NF-kappaB signal transduction	12.7636088288964
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	12.6834442550791
+regulation of adaptive immune response	12.0694842281904
+regulation of leukocyte mediated immunity	11.990077016434
+regulation of lymphocyte proliferation	11.9231503523425
+regulation of peptidase activity	11.8954593061562
+regulation of mononuclear cell proliferation	11.7439974786821
+positive regulation of leukocyte activation	11.6689398661174
+regulation of DNA-binding transcription factor activity	11.4733018375389
+positive regulation of cell-cell adhesion	11.3340149621295
+response to lipopolysaccharide	11.3091635894451
+positive regulation of cell activation	11.0164083764172
+mononuclear cell differentiation	10.5341561269137
+carbohydrate metabolic process	10.291489136532
+regulation of leukocyte cell-cell adhesion	9.81201038907324
+regulation of body fluid levels	9.78881129008725
+regulation of small molecule metabolic process	9.68985317597109
+negative regulation of response to external stimulus	9.56968985740534
+T cell activation	9.56968985740534
+positive regulation of lymphocyte activation	9.49538160164862
+regulation of cellular catabolic process	9.28913377529062
+cellular response to organonitrogen compound	9.26334496126331
+cytokine-mediated signaling pathway	8.66008038720912
+positive regulation of secretion	8.65347562830292
+blood vessel morphogenesis	8.14881830458941
+cell surface receptor protein tyrosine kinase signaling pathway	7.63633730176489
+regulation of protein-containing complex assembly	7.18128321356381

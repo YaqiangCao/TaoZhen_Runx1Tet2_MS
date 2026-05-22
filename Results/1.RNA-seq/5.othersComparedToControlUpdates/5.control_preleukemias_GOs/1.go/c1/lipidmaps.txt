@@ -1,15 +1,15 @@
 TermID	Term	Enrichment	logP	Genes in Term	Target Genes in Term	Fraction of Targets in Term	Total Target Genes	Total Genes	Entrez Gene IDs	Gene Symbols
-CellCycle	Cell cycle signaling pathway	0.053166036263437	-2.93433550260968	95	5	0.5	10	416	30939,27214,56150,12532,12534	Pttg1,Dbf4,Mad2l1,Cdc25c,Cdk1
-Apoptosis	Apoptosis signaling pathway	0.556244877311068	-0.58654665487251	74	2	0.2	10	416	12368,13063	Casp6,Cycs
-PI3K	PI3K/Akt/mTOR signaling pathway	0.687897731486722	-0.374115098192599	92	2	0.2	10	416	108067,13685	Eif2b3,Eif4ebp1
-TLR4	TLR4 (Toll-like receptor 4) signaling pathway	0.830898013602999	-0.185248218971179	67	1	0.1	10	416	20304	Ccl5
-FAEicosanoids	Arachidonic acid metabolism pathway	1.00000000000017	1.74855202869799e-13	9	0	0	10	416
-ST	Sterols biosynthesis pathway	1.00000000000017	1.74855202869799e-13	9	0	0	10	416
-FAOmega9AndOthersUnsaturated	Omega-9 and other unsaturated fatty acids biosynthesis pathway	1.0000000000011	1.102019763435e-12	14	0	0	10	416
-FAOmega3And6Unsaturated	Omega-3 and omega-6 unsaturated fatty acids biosynthesis pathway	1.00000000000148	1.48294367673427e-12	15	0	0	10	416
-FAEicosanoidsCYP	Arachidonic acid metabolism via CYP (Cytochromoe P450) pathway	1.00000000000148	1.48294367673427e-12	15	0	0	10	416
-GP	Glycerolipids/Glycerophospholipids metabolism pathway	1.00000000000233	2.32690864189431e-12	19	0	0	10	416
-FAEicosanoidsCOX	Arachidonic acid metabolism via COX (Cyclooxygenase) pathway	1.00000000000233	2.32690864189431e-12	19	0	0	10	416
-FAEicosanoidsLOX	Arachidonic acid metabolism via LOX (Lipooxygenase) pathway	1.00000000000273	2.73290690177008e-12	20	0	0	10	416
-SP	Sphingolipids metabolism pathway	1.00000000000321	3.21488992355212e-12	24	0	0	10	416
-PPAR	PPAR (Peroxisome proliferator-activated receptor) signaling pathway	1.00000000000727	7.26677961015077e-12	45	0	0	10	416
+FAEicosanoidsCOX	Arachidonic acid metabolism via COX (Cyclooxygenase) pathway	0.129652649450083	-2.04289633180261	19	2	0.142857142857143	14	416	67103,19224	Ptgr1,Ptgs1
+TLR4	TLR4 (Toll-like receptor 4) signaling pathway	0.173981362743129	-1.74880709617604	67	4	0.285714285714286	14	416	14281,26415,21898,22329	Fos,Mapk13,Tlr4,Vcam1
+PPAR	PPAR (Peroxisome proliferator-activated receptor) signaling pathway	0.184533893508931	-1.68992212771774	45	3	0.214285714285714	14	416	20181,104086,22259	Rxra,Cyp27a1,Nr1h3
+FAEicosanoids	Arachidonic acid metabolism pathway	0.267399502772843	-1.31901147380427	9	1	0.0714285714285714	14	416	19224	Ptgs1
+GP	Glycerolipids/Glycerophospholipids metabolism pathway	0.485825565215922	-0.721905638817397	19	1	0.0714285714285714	14	416	74596	Cds1
+FAEicosanoidsLOX	Arachidonic acid metabolism via LOX (Lipooxygenase) pathway	0.50395766115353	-0.685263020087199	20	1	0.0714285714285714	14	416	67103	Ptgr1
+SP	Sphingolipids metabolism pathway	0.570711911777367	-0.56087072943482	24	1	0.0714285714285714	14	416	223753	Cerk
+Apoptosis	Apoptosis signaling pathway	0.745356208663527	-0.293893042437203	74	2	0.142857142857143	14	416	18707,12983	Pik3cd,Csf2rb
+PI3K	PI3K/Akt/mTOR signaling pathway	0.854202493398843	-0.157587001591859	92	2	0.142857142857143	14	416	56458,18707	Foxo1,Pik3cd
+ST	Sterols biosynthesis pathway	1.00000000000075	7.45350800827254e-13	9	0	0	14	416
+FAOmega9AndOthersUnsaturated	Omega-9 and other unsaturated fatty acids biosynthesis pathway	1.00000000000204	2.04313513431868e-12	14	0	0	14	416
+FAOmega3And6Unsaturated	Omega-3 and omega-6 unsaturated fatty acids biosynthesis pathway	1.00000000000289	2.88835129132528e-12	15	0	0	14	416
+FAEicosanoidsCYP	Arachidonic acid metabolism via CYP (Cytochromoe P450) pathway	1.00000000000289	2.88835129132528e-12	15	0	0	14	416
+CellCycle	Cell cycle signaling pathway	1.000000000023	2.30044956277141e-11	95	0	0	14	416
